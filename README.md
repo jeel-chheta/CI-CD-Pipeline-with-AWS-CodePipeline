@@ -43,8 +43,8 @@ This project sets up a **CI/CD pipeline** using AWS native services to automate 
 1. Create a GitHub repository (e.g., `my-ci-cd-project`).
 2. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/my-ci-cd-project.git
-   cd my-ci-cd-project
+   git clone https://github.com/jeel-chheta/CI-CD-Pipeline-with-AWS-CodePipeline.git
+   cd CI-CD-Pipeline-with-AWS-CodePipeline
    ```
 3. Add a sample application:
    ```sh
